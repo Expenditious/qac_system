@@ -474,21 +474,6 @@ function getMenuClass($module, $submenu = '') {
         <div class="user-role"><?php echo ucfirst(getUserRole()); ?></div>
     </div>
     
-    <!-- Quick Stats -->
-    <div class="quick-stats">
-        <div class="stat-item">
-            <span>วันนี้</span>
-            <span class="stat-value">12</span>
-        </div>
-        <div class="stat-item">
-            <span>สัปดาห์นี้</span>
-            <span class="stat-value text-success">45</span>
-        </div>
-        <div class="stat-item">
-            <span>ต้องแก้ไข</span>
-            <span class="stat-value text-danger">2</span>
-        </div>
-    </div>
     
     <!-- Navigation Menu -->
     <nav class="sidebar-nav">

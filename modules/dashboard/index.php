@@ -111,7 +111,7 @@ include_once '../../templates/sidebar.php';
                     <p>ยินดีต้อนรับสู่ระบบควบคุมคุณภาพ วันนี้เป็นวันที่ <?php echo date('d/m/Y'); ?></p>
                 </div>
                 <div class="welcome-actions">
-                    <a href="<?php echo SITE_URL; ?>/modules/forms/qa/fm_qa_23/form.php" class="btn btn-primary btn-lg">
+                    <a href="<?php echo SITE_URL; ?>/modules/forms/qa/form_menu/index.php" class="btn btn-primary btn-lg">
                         <i class="fas fa-plus-circle me-2"></i>บันทึกข้อมูลใหม่
                     </a>
                 </div>

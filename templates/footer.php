@@ -315,7 +315,7 @@ function formatTime(time, format = '<?php echo TIME_FORMAT; ?>') {
     margin-top: 50px;
     padding: 30px 0 20px;
     box-shadow: 0 -2px 20px rgba(0,0,0,0.05);
-    margin-left: var(--sidebar-width);
+
     transition: all 0.3s ease;
 }
 
